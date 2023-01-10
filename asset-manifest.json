@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/r-usereducer/static/css/main.4ce4c569.css",
+    "main.js": "/r-usereducer/static/js/main.0e8a8b8c.js",
+    "index.html": "/r-usereducer/index.html",
+    "main.4ce4c569.css.map": "/r-usereducer/static/css/main.4ce4c569.css.map",
+    "main.0e8a8b8c.js.map": "/r-usereducer/static/js/main.0e8a8b8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ce4c569.css",
+    "static/js/main.0e8a8b8c.js"
+  ]
+}
